@@ -1,0 +1,6 @@
+^rcppExports.cpp$
+^stanExports_*
+src/*.o
+src/*.so
+*.Rcheck/
+*.tar.gz
