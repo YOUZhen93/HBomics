@@ -3,7 +3,7 @@
 ## HBomics overview
 
 <figure>
-<img src="man/HBomics.png" alt="HBomics Schematics" />
+<img width=60% height=60% src="man/HBomics.png" alt="HBomics Schematics" />
 <figcaption aria-hidden="true">HBomics Schematics</figcaption>
 </figure>
 
