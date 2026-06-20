@@ -1,8 +1,8 @@
 # HBomics: A multiomics data based hierarchical Bayesian framework for clonal allele imbalance inference
 
-=====================================================
+
 Author: Zhen You. Contact: youzhen93@gmail.com
-=====================================================
+
 ## HBomics overview
 
 <figure>
